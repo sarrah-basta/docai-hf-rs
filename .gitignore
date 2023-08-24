@@ -1,1 +1,4 @@
 /target
+/assets/models
+/assets/testdata
+.vscode
